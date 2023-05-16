@@ -172,6 +172,4 @@ def add_summary(name, content, transcript_id):
 
 # Call the function to create the database and tables
 create_database()
-create_annotator("nhtx2806", "RdRisLit42*")
 add_transcript("Hi, how are you")
-#add_span(15, 18, True, "nhtx2806", )
